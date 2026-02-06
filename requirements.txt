@@ -1,0 +1,2 @@
+# Spark 4.1.1 - compatible with Java 17 and local Spark at C:\spark-4.1.1-bin-hadoop3
+pyspark==4.1.1
